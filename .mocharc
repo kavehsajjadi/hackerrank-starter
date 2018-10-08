@@ -1,0 +1,4 @@
+# mocha.opts
+./**/*.test.js
+--watch
+--exit
